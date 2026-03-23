@@ -49,35 +49,28 @@
 ## List:可變 vs Tuple:不可變 
 
 ### 建立列表
-<img width="486" height="105" alt="image" src="https://github.com/user-attachments/assets/b7cdcc16-21f7-4e2c-aeed-26689ea8fad1" />
-
+<img width="613" height="94" alt="{D662689E-BC73-4E48-BED2-BFBA18EA746D}" src="https://github.com/user-attachments/assets/44d0a9ae-9439-4f2a-b887-7e4487b94ce5" />
 
 ### 存取元素
-<img width="549" height="134" alt="image" src="https://github.com/user-attachments/assets/16581c7c-aeaa-4e56-808b-140369741424" />
-
+<img width="599" height="125" alt="{0D699220-2B6B-4A08-B441-5F0C48C7D7AD}" src="https://github.com/user-attachments/assets/b3c651b5-d096-4890-8ae9-e7c626bd29c0" />
 
 ### 修改內容
-<img width="550" height="118" alt="image" src="https://github.com/user-attachments/assets/3c878e19-ffc0-427a-a3d5-e58b1bc33693" />
-
+<img width="622" height="119" alt="{B84DD449-3CD7-4297-8A87-79203083E956}" src="https://github.com/user-attachments/assets/da94b092-75c4-4eb0-9389-583980497041" />
 
 ### append() - 尾端新增
-<img width="548" height="123" alt="image" src="https://github.com/user-attachments/assets/ba85d415-a022-4040-87c2-33e7d7150303" />
-
+<img width="575" height="107" alt="{5F10287D-CA8E-4D6E-9745-B926182692B9}" src="https://github.com/user-attachments/assets/2e13e446-91ce-475a-8b38-f9217403757a" />
 
 ### insert() - 指定位置插入
-<img width="552" height="123" alt="image" src="https://github.com/user-attachments/assets/f1e2ee2c-d7c7-4aaf-9e37-45060b4827e7" />
-
+<img width="575" height="117" alt="{55B974B7-52BE-40C5-BBCD-949B07764290}" src="https://github.com/user-attachments/assets/75dd7fd4-35a1-4957-a2c9-9420e3e7a763" />
 
 ### remove() - 依值刪除
-<img width="548" height="118" alt="image" src="https://github.com/user-attachments/assets/9f6145c7-3a72-44f5-9763-4720c4a869c9" />
-
+<img width="538" height="112" alt="{5A2B5DCC-5849-428A-BE23-5DB0E774831B}" src="https://github.com/user-attachments/assets/d47077d7-5aa0-4b1d-aa2d-2817948f20cb" />
 
 ### pop() - 回傳並刪除
-<img width="546" height="152" alt="image" src="https://github.com/user-attachments/assets/bfd8e410-84f8-4557-ad2f-672b080e78e7" />
-
+<img width="570" height="145" alt="{8F9A091D-03C7-446C-9983-B299CA763BF8}" src="https://github.com/user-attachments/assets/6486363d-3c38-4d54-854a-ea330e17b102" />
 
 ### clear() - 清空全部
-<img width="546" height="116" alt="image" src="https://github.com/user-attachments/assets/64e8e227-d614-46dd-b23f-a411eaa55fac" />
+<img width="591" height="108" alt="{BC74E9B8-29CC-490C-9382-EF9EAAE59A49}" src="https://github.com/user-attachments/assets/d0dba998-f992-40ab-841b-aa305e1c9ef9" />
 
 
 
