@@ -10,7 +10,7 @@
   <img width="460" height="290" alt="{14B27A18-4C39-4C75-BA31-BF1580B96597}" src="https://github.com/user-attachments/assets/b8438948-ad3f-4a2d-9d20-38f8c9765d6c" />
 
 ## P04-04 For Range
-  <img width="515" height="177" alt="{9A5F5DD1-ED2D-451B-8093-FFA284DECBC1}" src="https://github.com/user-attachments/assets/d7b5a90c-b96d-4778-aef8-ed533ca0542a" />
+  <img width="468" height="163" alt="{EB0202B9-5872-4BEE-84B0-06D1C00F76F7}" src="https://github.com/user-attachments/assets/f88885d6-87ac-4d79-b620-06cbe4a3df9b" />
 
 ## P04-05 For Range 2
   <img width="407" height="179" alt="{082283C3-83BC-422E-B6A0-65CCDD75680C}" src="https://github.com/user-attachments/assets/4646d2ca-3c40-469c-b826-a0a61dddecf3" />
