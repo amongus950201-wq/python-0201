@@ -15,3 +15,7 @@
 ## P04-05 For Range 2
   <img width="407" height="179" alt="{082283C3-83BC-422E-B6A0-65CCDD75680C}" src="https://github.com/user-attachments/assets/4646d2ca-3c40-469c-b826-a0a61dddecf3" />
 
+## P04-06 For Step
+  <img width="524" height="177" alt="{22284155-D999-4B58-B9E0-524D4B533BB0}" src="https://github.com/user-attachments/assets/1f782b00-92d6-47b7-9b98-bd4a430b52ee" />
+## P04-07 String Loop
+ <img width="427" height="180" alt="{C5E5D063-1EB7-44D6-8933-76D625B24712}" src="https://github.com/user-attachments/assets/991ede75-62e2-41fa-aae9-9444299b4740" />
