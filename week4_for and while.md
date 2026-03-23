@@ -1,4 +1,4 @@
-# FOR amd WHILE
+# FOR and WHILE
 
 ## P04-01 While 5 
   <img width="222" height="199" alt="{DA125104-7668-42D6-83BE-5886B2ED2D9B}" src="https://github.com/user-attachments/assets/ecd1421d-2699-4d5f-9373-6f39b6e187e4" />
